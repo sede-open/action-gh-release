@@ -1,4 +1,3 @@
----
 # https://help.github.com/en/articles/metadata-syntax-for-github-actions
 name: "GH Release"
 description: "Github Action for creating Github Releases"
